@@ -1,5 +1,6 @@
 
-Livocode is an educational platform offering a wide range of courses on tech-related subjects such as web development, programming, data science, and more. This repository contains the front-end code for Livocode, designed with simplicity and responsiveness to provide an excellent learning experience.
+Livocode is an educational platform offering a wide range of courses on tech-related subjects such as web development, programming, data science, and more. 
+This repository contains the front-end code for Livocode, designed with simplicity and responsiveness to provide an excellent learning experience.
 
 Table of Contents:
 Features
